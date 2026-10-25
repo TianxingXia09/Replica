@@ -1,0 +1,11 @@
+{
+  "calibration_repetitions": 20,
+  "held_out_repetitions": 20,
+  "fixed_window_cells": 648,
+  "fixed_window_prediction_accuracy": 0.9552469135802469,
+  "calibration_selected_window_cells": 108,
+  "selected_window_prediction_accuracy": 0.9351851851851852,
+  "selected_margin_vs_heldout_advantage_correlation": 0.9934600205245435,
+  "selected_predicted_wins": 41,
+  "selected_actual_wins": 44
+}

@@ -1,0 +1,19 @@
+{
+  "tasks": 360,
+  "raw_rows": 1214400,
+  "blocks_per_task": 20,
+  "rounds_per_block": 512,
+  "frozen_rule": {
+    "base_threshold": 0.5,
+    "floor_threshold": 4.0,
+    "floor_band_fraction": 0.1
+  },
+  "copy_overhead_fraction": 0.0,
+  "cells": 54,
+  "cells_beating_best_fixed": 32,
+  "significant_wins": 26,
+  "significant_losses": 20,
+  "median_relative_mse_reduction_vs_best_fixed": 0.01019875043895524,
+  "median_safe_to_oracle_mse_ratio": 2.392581489086251,
+  "fraction_round_cells_selecting_sync": 0.5620471014492754
+}

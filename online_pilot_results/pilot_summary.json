@@ -1,0 +1,9 @@
+{
+  "tasks": 48,
+  "raw_rows": 131328,
+  "copy_overhead_fraction": 0.125,
+  "median_online_to_oracle_mse_ratio": 2.3099047083881206,
+  "median_online_to_best_fixed_mse_ratio": 1.2177286509993657,
+  "cells_online_beats_best_fixed": 3,
+  "cells": 16
+}

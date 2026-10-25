@@ -1,0 +1,19 @@
+{
+  "configurations": 1440,
+  "repetitions_per_cell": 40,
+  "all_unit_of_comparison": "total prepared n-qubit systems",
+  "bell_swap_note": "Statistically strong C3 baseline; local-AFRS t=2 moment specialization has the same SWAP-sign variance bound.",
+  "global_rm_single_target_note": "Uses the full budget separately for every target and therefore costs M times more copies for all targets.",
+  "zero_rmse_comparisons": 2,
+  "significant_matched_budget_wins": 522,
+  "median_relative_reduction_vs_matched_comparators": {
+    "bell_swap_local_afrs_t2": -1.7851516371457217,
+    "global_rm_random_allocation": 0.711159997351988,
+    "shadow_u_pooled": -0.06595329692137919,
+    "shadow_u_window_16": 0.17045283064310063,
+    "shadow_u_window_2": 0.6833587609229889,
+    "shadow_u_window_4": 0.48571139806224206,
+    "shadow_u_window_64": -0.010959168295873956,
+    "shadow_u_window_8": 0.3676351118684925
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "development_only": true,
+  "cells": 16,
+  "cells_beating_best_fixed": 16,
+  "median_relative_mse_reduction": 0.3914979154837811,
+  "rule_frozen_for_hidden_test": {
+    "base_threshold": 0.5,
+    "floor_threshold": 4.0,
+    "floor_band_fraction": 0.1
+  }
+}

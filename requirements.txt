@@ -1,0 +1,5 @@
+# Environment used to validate this code-only release (Python 3.12).
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+matplotlib==3.10.8

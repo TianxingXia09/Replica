@@ -1,0 +1,16 @@
+{
+  "tasks": 270,
+  "raw_records": 24840,
+  "rounds_per_condition": 2000,
+  "repetitions": 30,
+  "maximum_analytic_bound_violation": 0.0,
+  "median_rmse_inflation": {
+    "0.0": 1.0,
+    "0.01": 0.984462251579767,
+    "0.02": 0.9994914040671502,
+    "0.05": 0.9979637397326884,
+    "0.1": 1.0305754460137058,
+    "0.2": 1.1397445798243797
+  },
+  "median_absolute_empirical_minus_exact_bias": 0.0031126784294074695
+}

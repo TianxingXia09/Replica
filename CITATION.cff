@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this research code."
+title: "Replica-Synchronized Randomized Measurements for Local Purity under Non-i.i.d. Quantum Sources"
+type: software
+authors:
+  - family-names: Xia
+    given-names: TianXing
+    orcid: "https://orcid.org/0009-0000-9255-5684"
+date-released: 2026-10-26
